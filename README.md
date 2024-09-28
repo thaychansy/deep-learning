@@ -1,5 +1,5 @@
 # Alphabet Soup Charity Model Analysis
-This repository contains a deep learning project for Alphabet Soup, aimed at predicting the success of funding applicants. Using machine learning and neural networks, the project develops a binary classifier to identify applicants with the highest likelihood of success, optimizing the foundation's funding decisions.
+This repository contains a deep learning project for nonprofit foundation Alphabet Soup, aimed at predicting the success of funding applicants. Using machine learning and neural networks, the project develops a binary classifier to identify applicants with the highest likelihood of success, optimizing the foundation's funding decisions.
 
 ## Overview of the Analysis
 
