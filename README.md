@@ -29,7 +29,7 @@ The purpose of this analysis is to develop and optimize a deep learning model th
     - `Sigmoid` activation function was used for the output layer because the task is a binary classification problem.
 
 - **Model Performance:**
-  - **Target Performance:** The target was to achieve an accuracy of at least 75%. After multiple optimization attempts, the final model achieved an accuracy of 76.3% on the test dataset.
+  - **Target Performance:** The target was to achieve an accuracy of at least 75%. Unfortunately, after multiple optimization attempts, the final model achieved an accuracy of 72% on the test dataset.
   - **Steps to Increase Performance:**
     - **Increased Neurons and Layers:** The model was initially simple but was later made more complex by adding more neurons and layers. This change helped in capturing more detailed patterns from the data.
     - **Adjusted Activation Functions:** The `ReLU` activation function was chosen for hidden layers because of its efficiency in deep learning models, while `tanh` was also tested for its ability to handle certain types of data better.
