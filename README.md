@@ -58,4 +58,11 @@ To improve the model's performance and potentially reach or surpass the target a
 
 By implementing these strategies, the model's accuracy could be improved, making it a more reliable tool for predicting the success of charity projects and supporting Alphabet Soup's funding decisions.
 
+## Contact
+
+Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gmail.com
+
+
+Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
+
 
